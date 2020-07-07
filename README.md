@@ -1,2 +1,2 @@
 # NullCraftStudio.github.io
-救援页
+跳转页面
